@@ -1,5 +1,10 @@
 # Wernher's Old Bits :: Change Log
 
+* 2016-0910: 0.14 (TiktaalikDreaming) for KSP 1.2.2
+	+ Major update for Realism Overhaul config.
+	+ Rework of the A-12 fuel tank to add volume so it can take enough fuel to enable the multistage A-12 to get something into orbit.
+	+ I split the A-10 engine into the standard and a variant without vectoring vanes.  With the A-12's 50 A-10 engines, there's just no need for all the engines to gimbal.  Feel free to mix and match or just ignore the new engine.
+	+ I'm still working on the ramjet, it's not really working properly just yet.  It should basically function if you're running RO without AJE.  But I need more time tweaking the AJE config.
 * 2016-0901: 0.13 (TiktaalikDreaming) for KSP 1.1.3
 	+ Added the fins for the A-11 and A-12 plus decouplers suited to the various stages.
 	+ A bit more work on the meshes for the various bits and pieces.
