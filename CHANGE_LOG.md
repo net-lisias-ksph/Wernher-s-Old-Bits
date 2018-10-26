@@ -1,5 +1,7 @@
 # Wernher's Old Bits :: Change Log
 
+* 2018-1023: 0.19.1 (TiktaalikDreaming) for KSP 1.5.1
+	+ Removed old model files that interfered with the surface parachute. Untested because I noticed just before going to work and fixed it while on the bus. Not even sure if I changed the zip file to be honest.
 * 2018-1022: 0.19 (TiktaalikDreaming) for KSP 1.5.1
 	+ Finally got around to fixing the RCS on the A-10 wing. Which is a feature I'm not even sure was planned, but seemed suggested by some of the diagrams.
 	+ Tested in 1.5.1, should work fine in 1.4+
