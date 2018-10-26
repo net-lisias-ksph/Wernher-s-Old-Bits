@@ -1,5 +1,10 @@
 # Wernher's Old Bits :: Change Log
 
+* 2018-1022: 0.19 (TiktaalikDreaming) for KSP 1.5.1
+	+ Finally got around to fixing the RCS on the A-10 wing. Which is a feature I'm not even sure was planned, but seemed suggested by some of the diagrams.
+	+ Tested in 1.5.1, should work fine in 1.4+
+	+ A-11 and A-12 still somewhat dependent on KJR, esp the 12. But, the "stock effect" of it having spontaneous unplanned disassembly on the launch pad probably isn't too far from what would really happen.
+	+ Plus major part revamps, now includes A2-A5
 * 2017-0621: 0.16b (TiktaalikDreaming) for KSP 1.3.1
 	+ Switching from bzip2 to deflate method for zip file
 * 2017-0529: 0.15b (TiktaalikDreaming) for KSP 1.3.0
