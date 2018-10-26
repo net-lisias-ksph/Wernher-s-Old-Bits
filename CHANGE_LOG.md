@@ -1,5 +1,7 @@
 # Wernher's Old Bits :: Change Log
 
+* 2017-0621: 0.16b (TiktaalikDreaming) for KSP 1.3.1
+	+ Switching from bzip2 to deflate method for zip file
 * 2017-0529: 0.15b (TiktaalikDreaming) for KSP 1.3.0
 	+ Zip method now zip
 * 2016-0910: 0.14 (TiktaalikDreaming) for KSP 1.2.2
