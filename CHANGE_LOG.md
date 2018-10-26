@@ -1,5 +1,11 @@
 # Wernher's Old Bits :: Change Log
 
+* 2016-0901: 0.13 (TiktaalikDreaming) for KSP 1.1.3
+	+ Added the fins for the A-11 and A-12 plus decouplers suited to the various stages.
+	+ A bit more work on the meshes for the various bits and pieces.
+	+ Added A-4b style fins for the A-4.
+	+ Added A-6 ramjet.
+	+ Fixed up A-4 nose chute, and re-used the chute to make a surface attachable chute for stage recovery.
 * 2016-0818: 0.12 (TiktaalikDreaming) for KSP 1.1.3
 	+ Added A-11 and A-12 stages.  There's no fins yet for them.
 	+ Removed ability to surface attach to the A-10 engine, that was just there for before I'd built the A-10 fins, for testing.  But I've added surface attach to the A-10 and A-4 fins.
