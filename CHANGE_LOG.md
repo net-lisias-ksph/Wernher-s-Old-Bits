@@ -1,5 +1,9 @@
 # Wernher's Old Bits :: Change Log
 
+* 2016-0818: 0.12 (TiktaalikDreaming) for KSP 1.1.3
+	+ Added A-11 and A-12 stages.  There's no fins yet for them.
+	+ Removed ability to surface attach to the A-10 engine, that was just there for before I'd built the A-10 fins, for testing.  But I've added surface attach to the A-10 and A-4 fins.
+	+ None of the new parts have Real-Fuel or RSS config, so basically this update is stock only.
 * 2016-0528: 0.11 (TiktaalikDreaming) for KSP 1.1.3
 	+ Added in the A-10 and some A-4 variants (A-4b, A-6, A-9) including the manned A-4/9 cockpit.
 	+ Resized the non-RSS versions to 64% rather than 50% on advice from NathanKell.
