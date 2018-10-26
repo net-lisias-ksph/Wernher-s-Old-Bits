@@ -1,5 +1,9 @@
 # Wernher's Old Bits :: Change Log
 
+* 2016-0528: 0.11 (TiktaalikDreaming) for KSP 1.1.3
+	+ Added in the A-10 and some A-4 variants (A-4b, A-6, A-9) including the manned A-4/9 cockpit.
+	+ Resized the non-RSS versions to 64% rather than 50% on advice from NathanKell.
+	+ Significantly fixed up most of the centres, mass, lift, and drag.
 * 2016-0515: 0.10 (TiktaalikDreaming) for KSP 1.1.2
 	+ Added first stage of the Redstone A-6 NAA-75-110 as four parts.
 	+ Fuel tank; should be self explanatory
